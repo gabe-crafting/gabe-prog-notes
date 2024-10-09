@@ -1,0 +1,1 @@
+import{r as o}from"./BaXE4A0T.js";import{k as r,c as s,e as t,f as a,W as d}from"./CuS7T8g6.js";import"./2ETV-d1z.js";const c={},n={class:"card-grid"},i={class:"layout"};function l(e,_){return s(),t("section",n,[o(e.$slots,"root",{},void 0,!0),a("div",i,[d(e.$slots,"default",{},void 0,!0)])])}const p=r(c,[["render",l],["__scopeId","data-v-1d788a35"]]);export{p as default};
